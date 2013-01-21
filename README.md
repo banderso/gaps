@@ -1,13 +1,13 @@
 # gaps
 
-A Clojure library designed to ... well, that part is up to you.
+A simple clojure library that will form the core of a text buffer server.
 
 ## Usage
 
-FIXME
+TODO: currently in flux.
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Benjamin Anderson.
 
 Distributed under the Eclipse Public License, the same as Clojure.
